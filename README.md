@@ -9,7 +9,7 @@ FILE
 eurostudent.sh - Shell code program.
 </pre>
 
-CONTACT
+SOURCE
 
-Source: https://github.com/KyomaHooin/Eurostudent
+https://github.com/KyomaHooin/Eurostudent
 
